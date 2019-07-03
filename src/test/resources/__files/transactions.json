@@ -1,0 +1,40 @@
+[
+  {
+    "created_at": "2018-02-02T00:00:00",
+    "updated_at": "2018-02-02T00:00:00",
+    "exchangeRate": {
+      "currencyPair": "GBP/USD",
+      "rate": 1.2
+    },
+    "orderType": {
+      "name": "bid"
+    },
+    "orderStatus": {
+      "name": "new"
+    },
+    "amount": 20,
+    "user": {
+      "updatedAt": "2018-01-02T00:00:00",
+      "name": "testUser1"
+    }
+  },
+  {
+    "created_at": "2018-02-03T00:00:00",
+    "updated_at": "2018-02-03T00:00:00",
+    "exchangeRate": {
+      "currencyPair": "GBP/USD",
+      "rate": 1.2
+    },
+    "orderType": {
+      "name": "ask"
+    },
+    "orderStatus": {
+      "name": "new"
+    },
+    "amount": 20,
+    "user": {
+      "updatedAt": "2018-01-03T00:00:00",
+      "name": "testUser2"
+    }
+  }
+]

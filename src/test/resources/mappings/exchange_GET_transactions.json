@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPattern": "^/v1/transactions"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "transactions.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
